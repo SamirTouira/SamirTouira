@@ -20,3 +20,9 @@ Here are some ideas to get you started:
 ### My GitHub stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamirTouira&theme=dracula&show_icons=true)
+
+### Contact me
+
+https://www.linkedin.com/in/samir-touira-034170185/
+
+samir.touira@epitech.eu
