@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 #### I love my job, and when I have a project in hand, I do everything to make it clean and of high quality.
 
-### My GitHub stats
+### My GitHub stats :part_alternation_mark:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamirTouira&theme=dracula&show_icons=true)
 
-### Contact me
+### Contact m:e-mail:
 
 https://www.linkedin.com/in/samir-touira-034170185/
 
