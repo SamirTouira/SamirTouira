@@ -1,4 +1,4 @@
-### Hi there 👋
+## Welcome to my profile 👋
 
 <!--
 **SamirTouira/SamirTouira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### I love my job, and when I have a project in hand, I do everything to make it clean and of high quality.
+
+### My GitHub stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamirTouira&theme=dracula&show_icons=true)
