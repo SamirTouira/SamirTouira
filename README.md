@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 https://www.linkedin.com/in/samir-touira-034170185/
 
-samir.touira@epitech.eu
+samirtouira@gmail.com
